@@ -1,4 +1,4 @@
-<img width="1440" height="771" alt="image" src="https://github.com/user-attachments/assets/875670d1-c1c2-4128-a7a7-1f37d732ac35" />## Real-Time Password Checker: Intelligent Password Validation System
+## Real-Time Password Checker: Intelligent Password Validation System
 ## About
 
 The Real-Time Password Checker is a Python-based system designed to enhance user account security by providing instant feedback on password strength. Weak passwords are a major cause of security breaches, and this project addresses that issue by enforcing industry-standard rules for strong passwords.
